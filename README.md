@@ -1,4 +1,4 @@
 # MSIB-NF-Computer
 Tugas 1 Git/Github
 
-![git](https://user-images.githubusercontent.com/92586421/156312074-63a1044d-c6ea-493f-abb7-3761e81e7700.png)
+![image](https://user-images.githubusercontent.com/92586421/156314366-bb5ebe67-e0a3-467d-91a6-8c3b57db1d7a.png)
